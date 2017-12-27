@@ -1,0 +1,12 @@
+{
+  "name": "spongebobify-endpoint",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "github.com/spongebobify/",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.16.2",
+    "spongebobify": "^0.3.7"
+  }
+}

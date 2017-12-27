@@ -1,10 +1,13 @@
 {
   "name": "spongebobify-endpoint",
   "version": "0.0.1",
+  "description": "An endpoint to spongebobify text, hosted at api.spongebobify.com",
   "main": "index.js",
-  "author": "github.com/spongebobify/",
+  "author": "https://github.com/spongebobify/",
   "license": "MIT",
   "private": false,
+  "repository": "https://github.com/spongebobify/spongebobify-endpoint"
+  ,
   "dependencies": {
     "express": "^4.16.2",
     "spongebobify": "^0.3.7"
